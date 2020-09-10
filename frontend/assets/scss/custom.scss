@@ -1,0 +1,15 @@
+// color
+$primary: #d94b3f !default;
+// navbar
+$navbar-padding-x: 0 !default;
+$navbar-padding-y: 0 !default;
+// list group
+$list-group-item-padding-x: 0 !default;
+$list-group-item-padding-y: 1.25rem !default;
+// card
+$card-spacer-x: 0 !default;
+
+
+// default
+@import "~bootstrap/scss/bootstrap.scss";
+@import "~bootstrap-vue/src/index.scss";
